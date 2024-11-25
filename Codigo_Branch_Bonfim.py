@@ -17,6 +17,6 @@ def exibir_opcoes():
     print('4. Remover Livro')
     print('5. Editar Livro')
     print('6. Sair\n')
-
+    
 def finalizar_app():
     exibir_subtitulo('Finalizando app')
